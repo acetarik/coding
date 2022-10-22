@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
-x=6
-y=3
-print(x*y)
+x=8
+y=5
+print(x*y,21)
